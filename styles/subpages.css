@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    background-color: #2d2d2f;
+    color: #ededed;
+    margin: 10vw;
+}
+
+a {
+    margin: 20px;
+    text-decoration: underline;
+    color: #ededed;
+    font-weight: bold;
+}
+
+p {
+}
+
+nav {
+    text-align: center;
+}
